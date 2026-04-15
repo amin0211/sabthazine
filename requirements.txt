@@ -1,2 +1,6 @@
+flet
+requests
+python-dotenv
 flask
 openai
+supabase

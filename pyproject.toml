@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "sabtehazine"
+version = "1.0.0"
+description = "Expense tracking app"
+authors = ["Amin"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+flet = "*"
+requests = "*"
+python-dotenv = "*"
+flask = "*"
+openai = "*"
+supabase = "*"
